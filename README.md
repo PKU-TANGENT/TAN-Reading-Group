@@ -18,6 +18,7 @@ Our reading group currently covers the following topics :
 5. [Discourse Structure](discourse)
 6. [Graph Representation](graph-representation)
 7. [Semantic Parsing](/semantic-parsing)
+8. [Information Extraction](information-extraction)
 
 
 
